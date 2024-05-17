@@ -3,8 +3,11 @@
 	"description": "A completed FCC course on Backend dev & APIs",
 	"name": "fcc-learn-npm-package-json",
 	"keywords": ["Freecodecamp", "Freecodecamp", "Youtube Walkthrough", "Reboot"]
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
+		"@freecodecamp/example": "^1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
