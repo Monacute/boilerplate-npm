@@ -1,6 +1,8 @@
 {
 	"author": "Node Mona - Reboot",
+	"description": "A completed FCC course on Backend dev & APIs",
 	"name": "fcc-learn-npm-package-json",
+	"keywords": ["Freecodecamp", "Freecodecamp", "Youtube Walkthrough", "Reboot"]
 	"dependencies": {
 		"express": "^4.14.0"
 	},
